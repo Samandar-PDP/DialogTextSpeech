@@ -25,6 +25,7 @@ class SecondActivity : AppCompatActivity() {
 
         appCompatImageButton = findViewById(R.id.btnVoice)
         textSpeech = findViewById(R.id.textVoice)
+
         editText = findViewById(R.id.editText)
         btnSpeak = findViewById(R.id.btnSpeak)
 
